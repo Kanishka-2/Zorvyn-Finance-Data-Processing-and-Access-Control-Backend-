@@ -1,6 +1,12 @@
 # Zorvyn-Finance-Data-Processing-and-Access-Control-Backend
 This project is a backend system for a finance dashboard where different users interact with financial records based on their role.
 
+Name: Kanishka Mandrawliya
+Email ID: kanshka0628@gmail.com
+Linkedin: https://www.linkedin.com/in/kanishka-m-2a17a8229/
+Phone no: 8408973870
+
+
 # Finance Data Processing and Access Control Backend
 
 A backend API for a finance dashboard system with role-based access control, financial record management, dashboard analytics, JWT authentication, and SQLite persistence.
